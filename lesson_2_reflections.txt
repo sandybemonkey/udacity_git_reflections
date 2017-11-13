@@ -32,3 +32,6 @@ WHAT IS THE RESULT OF MERGING TWO BRANCHES TOGETHER? WHY DO WE REPRESENT IT IN T
 
 the result is getting a master branch with all the changes make.
 we reprenting it like that to point the fact that is the coins branch was added to the master branch
+
+
+WHAT ARE THE PROS AND CONS OF GIT’S AUTOMATIC MERGING VS. ALWAYS DOING MERGES MANUALLY?
