@@ -26,3 +26,9 @@ branch help you keep your code organized and let you try thing without touching 
 HOW DO THE DIAGRAMS HELP YOU VISUALIZE THE BRANCH STRUCTURE?
 
 it's helps you get a visual version of your repository let you see at which time a branch was created, how many branchs exist and if everithing was merge or not
+
+
+WHAT IS THE RESULT OF MERGING TWO BRANCHES TOGETHER? WHY DO WE REPRESENT IT IN THE DIAGRAM THE WAY WE DO?
+
+the result is getting a master branch with all the changes make.
+we reprenting it like that to point the fact that is the coins branch was added to the master branch
