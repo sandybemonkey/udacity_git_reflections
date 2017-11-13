@@ -21,3 +21,8 @@ WHAT ARE SOME SITUATIONS WHEN BRANCHES WOULD BE HELPFUL IN KEEPING YOUR HISTORY 
 Branch can be usful if you want to try some new behavior in your app or experiment new feature before adding them to your existing app
 
 branch help you keep your code organized and let you try thing without touching your existing code
+
+
+HOW DO THE DIAGRAMS HELP YOU VISUALIZE THE BRANCH STRUCTURE?
+
+it's helps you get a visual version of your repository let you see at which time a branch was created, how many branchs exist and if everithing was merge or not
