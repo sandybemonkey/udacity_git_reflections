@@ -1,9 +1,23 @@
-What happens when you initialize a repository? Why do you need to do it?
+WHAT HAPPENS WHEN YOU INITIALIZE A REPOSITORY? WHY DO YOU NEED TO DO IT?
 
 it create a .git folder that representing the repository
 if you don't do this you won't be able to track change in the files and get an hitory
 
-How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+HOW IS THE STAGING AREA DIFFERENT FROM THE WORKING DIRECTORY AND THE REPOSITORY? WHAT VALUE DO YOU THINK IT OFFERS?
 
 the staging are is the place where you put file you want to commit.It's like a place between the repository and the working directory.
+
 the value of this place is that you have the freedom of choosing the files you want to commit.
+
+
+HOW CAN YOU USE THE STAGING AREA TO MAKE SURE YOU HAVE ONE COMMIT PER LOGICAL CHANGE?
+
+because you can compare it to the most recent commit using git diff --staged
+
+
+WHAT ARE SOME SITUATIONS WHEN BRANCHES WOULD BE HELPFUL IN KEEPING YOUR HISTORY ORGANIZED? HOW WOULD BRANCHES HELP?
+
+Branch can be usful if you want to try some new behavior in your app or experiment new feature before adding them to your existing app
+
+branch help you keep your code organized and let you try thing without touching your existing code
