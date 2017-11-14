@@ -31,3 +31,8 @@ to collaborate i would hav to send a new copy to my collaborator each time i mak
 And at the and every collaborator should have his lastest version and see what and where change were made to get the prodution ready version
 
 that would be really harder because of the risk of loosing track of the lastest version, files which were change and it would be time consuming
+
+
+WHEN WOULD YOU WANT TO MAKE CHANGES IN A SEPARATE BRANCH RATHER THAN DIRECTLY IN MASTER? WHAT BENEFITS DOES EACH APPROACH HAVE?
+
+You should alway create a branch when you making breaking changes on your project.The benefits is to avoid bug, get approval of your collaborator about thoses changes, and always get a master branch that is production ready.
