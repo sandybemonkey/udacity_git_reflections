@@ -1,1 +1,8 @@
 WHEN WOULD YOU WANT TO USE A REMOTE REPOSITORY RATHER THAN KEEPING ALL YOUR WORK LOCAL?
+
+When you want to share your work or you have to collaborate with other on the repository
+
+
+WHY MIGHT YOU WANT TO ALWAYS PULL CHANGES MANUALLY RATHER THAN HAVING GIT AUTOMATICALLY STAY UP-TO-DATE WITH YOUR REMOTE REPOSITORY?
+
+because you want to alway have a remote master branch alway bug free so you may be no want to push bug on you remote repository an avoid that.
