@@ -20,3 +20,14 @@ a branch is as the name suggest another version o the repository but in the same
 WHAT IS THE BENEFIT OF HAVING A COPY OF THE LAST KNOWN STATE OF THE REMOTE STORED LOCALLY?
 
 The benefits is to alway be able to have a point to compare and you can avoid conflicts later on
+
+
+HOW WOULD YOU COLLABORATE WITHOUT USING GIT OR GITHUB? WHAT WOULD BE EASIER, AND WHAT WOULD BE HARDER?
+
+without git or git hub I would have to:
+
+Make a copy everytime i change something
+to collaborate i would hav to send a new copy to my collaborator each time i make a change taht can stay up to date on my work and same go for them
+And at the and every collaborator should have his lastest version and see what and where change were made to get the prodution ready version
+
+that would be really harder because of the risk of loosing track of the lastest version, files which were change and it would be time consuming
