@@ -6,3 +6,12 @@ When you want to share your work or you have to collaborate with other on the re
 WHY MIGHT YOU WANT TO ALWAYS PULL CHANGES MANUALLY RATHER THAN HAVING GIT AUTOMATICALLY STAY UP-TO-DATE WITH YOUR REMOTE REPOSITORY?
 
 to stay in control of what you pull.
+
+
+DESCRIBE THE DIFFERENCES BETWEEN FORKS, CLONES, AND BRANCHES. WHEN WOULD YOU USE ONE INSTEAD OF ANOTHER?
+
+A fork is a clone on github server of a github project. use this when you want to have a copy of the project on your github account.
+
+A clone is a copy of a repository that that you generally put in your computer.You use it when you want to get a copy of a github repository on you local machine
+
+a branch is as the name suggest another version o the repository but in the same repository.You use that when you want to experiment or try a new feat befor merging it with the Master Branch
