@@ -15,3 +15,8 @@ A fork is a clone on github server of a github project. use this when you want t
 A clone is a copy of a repository that that you generally put in your computer.You use it when you want to get a copy of a github repository on you local machine
 
 a branch is as the name suggest another version o the repository but in the same repository.You use that when you want to experiment or try a new feat befor merging it with the Master Branch
+
+
+WHAT IS THE BENEFIT OF HAVING A COPY OF THE LAST KNOWN STATE OF THE REMOTE STORED LOCALLY?
+
+The benefits is to alway be able to have a point to compare and you can avoid conflicts later on
